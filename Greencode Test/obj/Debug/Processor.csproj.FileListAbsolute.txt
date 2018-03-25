@@ -1,0 +1,5 @@
+F:\Proyectos Misc\Greencode\Greencode Test\bin\Debug\Greencode Test.exe.config
+F:\Proyectos Misc\Greencode\Greencode Test\bin\Debug\Greencode Test.exe
+F:\Proyectos Misc\Greencode\Greencode Test\bin\Debug\Greencode Test.pdb
+F:\Proyectos Misc\Greencode\Greencode Test\obj\Debug\Greencode Test.exe
+F:\Proyectos Misc\Greencode\Greencode Test\obj\Debug\Greencode Test.pdb
